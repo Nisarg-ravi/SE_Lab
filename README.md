@@ -1,2 +1,3 @@
 # SE_Lab
-contains lab 
+Problem Statement #07 — Hostel Maintenance & Issue Ticketing System
+
